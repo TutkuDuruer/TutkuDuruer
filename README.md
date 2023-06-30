@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![gift](https://github.com/TutkuDuruer/TutkuDuruer/assets/136985088/858e8c76-3a82-4fd9-9bf5-8ae47d087a76)
 <h1 align="center">Hi 👋, I'm Tutku Duruer</h1>
 <h3 align="center">A passionate Data scientist from Turkey</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutkuduruer&label=Profile%20views&color=0e75b6&style=flat" alt="tutkuduruer" /> </p>
 
