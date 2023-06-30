@@ -1,4 +1,4 @@
-👋 Hi,
+👋 Hi,There
 
   
 I am Tutku from Turkey ,I  do data analysis .I  really enjoy learning  languages  like phyton and SQL as well as I like making data analysis.
