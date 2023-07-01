@@ -2,13 +2,19 @@
 <h1 align="center">Hi 👋, I'm Tutku Duruer</h1>
 <h3 align="center">A passionate Data scientist from Turkey</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutkuduruer&label=Profile%20views&color=0e75b6&style=flat" alt="tutkuduruer" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tutkuduruer" alt="tutkuduruer" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **open source**
 
 - 💬 Ask me about **Sql ,Phyton,Data visualization,Statistic**
 
 - 📫 How to reach me **dtutku2635@gmail.com**
+
+- ⚡ Fun fact **I know english and french language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
